@@ -33,7 +33,8 @@ d. System.out.println("Java is case sensitive!" );
 
 ### Question 4
 a. Declare a variable that used to store the value of a matric number.
-ans: int matricNo;
+ans: String matricNo;
+//flexible, exclusive
 
 b. Declare a variable that used to store the value of π.
 ans: double pi;
@@ -42,7 +43,7 @@ c. Initialize a variable named M with the value set to false.
 ans: boolean M = "false";
 
 d. Initialize a variable named P with the value set to 8800000000.
-ans: int P = 8800000000;
+ans: long P = 8800000000;
 
 e. Initialize a variable named letter with the value set to U.
 ans: char letter = 'U';
@@ -52,18 +53,18 @@ ans: final String PRO = "Java";
 
 ### Question 5
 a.
-double AMOUNT = "32.5";
+double AMOUNT = 32.5;
 AMOUNT += 10;
 System.out.println("The amount is " + AMOUNT);
 
 b.
-String chapter = 'Summary';
+String chapter = "Summary";
 System.out.println(chapter);
 
 c.
-int num1;
+int num1 = 5;
 int num;
-num++;
+num++;  //have to initialize value before operation
 num1 = num;
 
 d.
