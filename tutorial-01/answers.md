@@ -3,7 +3,7 @@
 ## Part I
 
 ### Question 1
-
+| :--- | :--- |
 | **Input** | number1, number2 |
 | **Process** | multiply the numbers: number1 x number2 |
 | **Output** | result of the multiplication |
