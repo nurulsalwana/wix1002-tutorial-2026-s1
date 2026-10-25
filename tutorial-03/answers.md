@@ -7,7 +7,7 @@
 Write statements for each of the following
 a. Determine whether 3x8=27.
 
-'''java
+```java
 answer = 3 * 8;
 
 if answer == 27 {
@@ -16,7 +16,7 @@ if answer == 27 {
     System.out.println("The equation is false.")
 }
     
-'''
+```
 
 b. Determine whether an input integer is an odd number or even number.
 
