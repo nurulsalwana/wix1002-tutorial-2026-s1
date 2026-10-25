@@ -19,9 +19,14 @@ STOP
 
 ```
 
+![Flowchart Q1](flowchart-q1.jpg)
+
 ### Question 2
 
-Write your answer here.
+| **Input** | **Process** | **Output** |
+| :--- | :--- | :--- |
+| A random number | compare the number with 50 | State whether the number is greater/less/equal to 50 |
+
 
 ## Part II
 
