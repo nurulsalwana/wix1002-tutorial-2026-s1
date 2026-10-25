@@ -10,11 +10,12 @@
 | **Output** | result of the multiplication |
 
 '''text
-|START
-|READ number1, number2
-|CALCULATE result = number1 * number2
-|DISPLAY result
-|STOP
+
+START
+READ number1, number2
+CALCULATE result = number1 * number2
+DISPLAY result
+STOP
 '''
 
 ### Question 2
