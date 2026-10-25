@@ -16,6 +16,7 @@ READ number1, number2
 CALCULATE result = number1 * number2
 DISPLAY result
 STOP
+
 '''
 
 ### Question 2
