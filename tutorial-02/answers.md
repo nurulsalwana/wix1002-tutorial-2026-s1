@@ -26,12 +26,15 @@ public class question2 {
 ```
 
 ### Question 3
+''' text
 a. System.out.println("Java Programming");
 b. System.out.println("Introduction to Java!");
 c. System.out.println("\\t is the horizontal tab character");
 d. System.out.println("Java is case sensitive!" );
+'''
 
 ### Question 4
+''' text
 a. Declare a variable that used to store the value of a matric number.
 ans: String matricNo;
 //flexible, exclusive
@@ -50,8 +53,10 @@ ans: char letter = 'U';
 
 f. Declare a constant variable named PRO. The value of the constant variable is Java. 
 ans: final String PRO = "Java";
+'''
 
 ### Question 5
+''' text
 a.
 double AMOUNT = 32.5;
 AMOUNT += 10;
@@ -75,6 +80,7 @@ e.
 String contact;
 Scanner keyboard = new Scanner(System.in);
 contact = keyboard.nextLine();
+'''
 
 ### Question 6
 ```java
