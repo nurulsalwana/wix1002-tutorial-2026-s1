@@ -3,6 +3,7 @@
 ## Part I
 
 ### Question 1
+| Aspect | Penerangan |
 | :--- | :--- |
 | **Input** | number1, number2 |
 | **Process** | multiply the numbers: number1 x number2 |
@@ -14,7 +15,6 @@ READ number1, number2
 CALCULATE result = number1 * number2
 DISPLAY result
 STOP
-'''
 
 ### Question 2
 
