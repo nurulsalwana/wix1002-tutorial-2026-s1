@@ -120,8 +120,3 @@ public class question7 {
 }
 ```
 
-## Part II
-
-### Question 1
-
-Write your answer here.
