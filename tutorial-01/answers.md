@@ -113,6 +113,7 @@ FOR (i = 1, i < 10, i++)
     END IF
 END FOR
 STOP
+```
 
 ![Flowchart Q6](flowchart-q6.jpg)
 
