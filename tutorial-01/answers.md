@@ -184,5 +184,5 @@ END FOR
 PRINT frequency
 STOP
 ```
-![Flowchart Q8](flowchart-q8.jpg)
+![Flowchart Q9](flowchart-q9.jpg)
 
