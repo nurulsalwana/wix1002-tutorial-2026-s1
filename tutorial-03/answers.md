@@ -61,6 +61,8 @@ e. A switch statement that display Sunday, Monday, .., Satudary if the input is 
 1, …, 6.
 
 ```java
+int day=0;
+
 switch (day) {
     case 0 :
         System.out.println("Sunday");
@@ -173,7 +175,7 @@ System.out.println("$$$$$");
 }
 
 output:
-$$$$$
+no output
 ```
 
 ### Question 4
@@ -201,11 +203,11 @@ Write the java statements that determine whether the Leap year. A Leap year is
 divisible by 4 but not by 100. However, a Leap year is also divisible by 400.
 
 ```java
-year = 2024;
+int year = 2024;
 
 if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0)) {
-    print(year + "is a leap year.");
+    System.out.print(year + "is a leap year.");
 } else {
-    print(year + "is not a leap year.");
+    System.out.print(year + "is not a leap year.");
 }
 ```
